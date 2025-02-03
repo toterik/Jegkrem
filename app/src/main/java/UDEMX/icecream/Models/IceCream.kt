@@ -5,5 +5,5 @@ data class IceCream(
     val id: Int,
     val name : String,
     val status : Status,
-    val imageUrl : String
+    val imageUrl : String?
 )

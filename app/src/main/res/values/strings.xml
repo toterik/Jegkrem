@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IceCream</string>
+    <string name="statusz">Rendezés státusz szerint:</string>
 </resources>
